@@ -1,0 +1,30 @@
+{
+  "name": "domp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nehansh Jain",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalandroid/domp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kunalandroid/domp/issues"
+  },
+  "homepage": "https://github.com/kunalandroid/domp#readme",
+  "description": "",
+  "dependencies": {
+    "@simbachain/libsimba-js": "^0.5.8",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.4.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.12.0"
+  }
+}
